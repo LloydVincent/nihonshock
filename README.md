@@ -1,2 +1,0 @@
-# nihonshock
-Nihonshock
